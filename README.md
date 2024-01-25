@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **C and C++**
 
-- 👨‍💻 All of my projects are available at [*building*](*building*)
-
 - 📫 How to reach me **ismaelmehdidwork@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
