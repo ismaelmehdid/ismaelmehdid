@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ismaël Mehdid</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ismaël Mehdid</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=1000&color=F7F7F7&random=false&width=435&lines=I+am+a+software+engineer+student+!" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismaelmehdid&label=Profile%20views&color=0e75b6&style=flat" alt="ismaelmehdid" /> </p>
