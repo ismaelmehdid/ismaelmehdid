@@ -2,10 +2,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&duration=1500&pause=2500&color=F7F7F7&center=true&vCenter=true&width=435&lines=I'm+a+Software+Engineer+Intern+and+Student!" alt="Typing SVG" /></a>
 
 - 🌱 Currently a **Software Engineer Intern** at **[Bluco](https://www.bluco.ai/fr)**
-- 📫 Reach me : **ismaelmehdidwork@gmail.com**
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismaelmehdid/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/ismaelmehdid/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:ismaelmehdidwork@gmail.com)
 
 ## Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
