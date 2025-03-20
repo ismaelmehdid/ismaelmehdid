@@ -1,11 +1,16 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ismaël Mehdid</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&duration=1500&pause=2500&color=F7F7F7&center=true&vCenter=true&width=435&lines=I'm+a+Software+Engineer+Intern+and+Student!" alt="Typing SVG" /></a>
 
-- 🌱 Currently a **Software Engineer Intern** at **[Bluco](https://www.bluco.ai/fr)**
+- 🌱 Currently a **Software Engineer Intern** at **<a href="https://www.bluco.ai/fr" target="_blank">Bluco</a>**
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/ismaelmehdid/)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:ismaelmehdidwork@gmail.com)
+<a href="https://www.linkedin.com/in/ismaelmehdid/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn">
+</a>
+
+<a href="mailto:ismaelmehdidwork@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Email">
+</a>
 
 ## Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
