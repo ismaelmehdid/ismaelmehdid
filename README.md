@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ismaël Mehdid</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&duration=1500&pause=2500&color=F7F7F7&center=true&vCenter=true&width=435&lines=I'm+a+Software+Engineer+Intern+and+Student!" alt="Typing SVG" /></a>
 
-- 🌱 Currently a **Software Engineer Intern** at **[Bluco](https://www.bluco.ai/fr)**
+🌱 Currently a **Software Engineer Intern** at **[Bluco](https://www.bluco.ai/fr)**
   
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/ismaelmehdid/)
